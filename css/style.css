@@ -1,0 +1,54 @@
+body {
+  font-family: 'Calibri', 'Trebuchet MS', sans-serif;
+  color:white;
+  background-color: white;
+}
+
+div {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: normal;
+  font-size: 1.23 em;
+}
+.container {
+  width: 520px;
+  font-size: 2 em;
+  margin-top: 20px;
+}
+.button-group {
+  margin-bottom: 20px;
+}
+
+.counter {
+  display: inline;
+  color: black;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 10px;
+}
+
+.posts {
+  clear: both;
+  list-style: none;
+  padding-left: 0;
+  width: 100%;
+}
+
+.posts li {
+  color: black;
+  background-color: #fff;
+  border: 1px solid sandybrown;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  word-wrap: break-word;
+  min-height: 42px;
+}
+
+.header {
+  font-size: 2 em;
+  background-color:#3b5998 ;
+  text-align: center;
+  padding: 1px;
+}
